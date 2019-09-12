@@ -1,7 +1,5 @@
-/* rinella css */
+/* rinella css for card component */
 
-
-    
 .card {
     width: 100%;
     max-width: 800px;
@@ -10,7 +8,6 @@
     display: flex;
     flex-direction: column;
 }
-
 
 .card-img {
     object-fit: cover;
@@ -86,6 +83,9 @@ font-family: 'Source Sans Pro', sans-serif;
     display: block; /* creates a line break */
 }
 
+/* ============
+media query
+============ */
 
 @media (min-width: 600px){
 
