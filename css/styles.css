@@ -67,6 +67,13 @@ font-family: 'Source Sans Pro', sans-serif;
     letter-spacing: 1px;
 }
 
+.card-btn:hover,
+.card-btn:focus {
+    background: fuchsia;
+    color: #fff;
+
+}
+
 .card-read-time {
     margin: 0;
     opacity: .6;
