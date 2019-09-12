@@ -1,1 +1,43 @@
 /* rinella css */
+
+.card {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+/* ============
+typography
+============ */
+
+/* fonts
+font-family: 'Blinker', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+*/
+
+.card-title {
+    color: #05cbe9;
+    font-size: 1.75rem;   /* 28px / 16px */
+    font-family: 'Blinker', sans-serif;
+}
+
+.card-body {
+    font-size: 1rem; /* 16px */
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.card-read-time {
+    font-family: 'Blinker', sans-serif;
+    font-size: font-size: 1.25rem; /* 20px / 16px */
+
+}
+
+span {
+    font-family: 'Blinker', sans-serif;
+    font-size: 1.75rem;   /* 28px / 16px */
+}
+
+.card-btn {
+    font-family: 'Blinker', sans-serif;
+    font-size: 1.25rem; /* 20px / 16px */
+}
